@@ -97,8 +97,12 @@ dist
 # FuseBox cache
 .fusebox/
 
-# DynamoDB Local files
+# DynamoDB Local filescls
+
 .dynamodb/
 
 # TernJS port file
 .tern-port
+
+# configuracion visual studio code
+.vscode
